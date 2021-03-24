@@ -2,59 +2,59 @@ id: 0159eeac400142c6829c13982d7043c2
 annotation_type: pagination
 revision: '00001'
 annotations:
-- id: 038f8c7b28d446109946b18166186124
-  span:
-    start: 0
-    end: 732
-  page_index: 1a
-  page_info: null
-  reference: '17070001'
-- id: 03aabaeecfc8434ba558617ba1fd7b74
-  span:
-    start: 737
-    end: 2340
-  page_index: 1b
-  page_info: null
-  reference: '17070002'
-- id: 2d1970bcb08d40bab8a13440763fa0f9
-  span:
-    start: 2345
-    end: 2550
-  page_index: 2a
-  page_info: null
-  reference: '17070003'
-- id: 3cf81f911da24584b8d47c31c8e3217a
-  span:
-    start: 2555
-    end: 2618
-  page_index: 2b
-  page_info: null
-  reference: '17070004'
-- id: d5d1dfd4f6754bd9bf73e795a7403fe4
-  span:
-    start: 2623
-    end: 6020
-  page_index: 3a
-  page_info: null
-  reference: '17070005'
-- id: 32f863c261d649d68e7c0225a30d2d95
-  span:
-    start: 6025
-    end: 7255
-  page_index: 3b
-  page_info: null
-  reference: '17070006'
-- id: dbc0f59a708f456a9f5714e516469fca
-  span:
-    start: 7260
-    end: 10367
-  page_index: 4a
-  page_info: null
-  reference: '17070007'
-- id: 2d39765c7b594612b4b1514d8092e5fb
-  span:
-    start: 10372
-    end: 10999
-  page_index: 4b
-  page_info: null
-  reference: '17070008'
+  038f8c7b28d446109946b18166186124:
+    page_index: 1a
+    page_info: null
+    reference: '17070001'
+    span:
+      start: 0
+      end: 732
+  03aabaeecfc8434ba558617ba1fd7b74:
+    page_index: 1b
+    page_info: null
+    reference: '17070002'
+    span:
+      start: 737
+      end: 2340
+  2d1970bcb08d40bab8a13440763fa0f9:
+    page_index: 2a
+    page_info: null
+    reference: '17070003'
+    span:
+      start: 2345
+      end: 2550
+  3cf81f911da24584b8d47c31c8e3217a:
+    page_index: 2b
+    page_info: null
+    reference: '17070004'
+    span:
+      start: 2555
+      end: 2618
+  d5d1dfd4f6754bd9bf73e795a7403fe4:
+    page_index: 3a
+    page_info: null
+    reference: '17070005'
+    span:
+      start: 2623
+      end: 6020
+  32f863c261d649d68e7c0225a30d2d95:
+    page_index: 3b
+    page_info: null
+    reference: '17070006'
+    span:
+      start: 6025
+      end: 7255
+  dbc0f59a708f456a9f5714e516469fca:
+    page_index: 4a
+    page_info: null
+    reference: '17070007'
+    span:
+      start: 7260
+      end: 10367
+  2d39765c7b594612b4b1514d8092e5fb:
+    page_index: 4b
+    page_info: null
+    reference: '17070008'
+    span:
+      start: 10372
+      end: 10999
