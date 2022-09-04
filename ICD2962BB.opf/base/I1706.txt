@@ -1,100 +1,70 @@
-༄༅།།བོདཀྱི་ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་བ།།
+༄༅།།བོད ཀྱི་ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་བ།།
 Tibetan Buddhist Resource Center
 Text Scan Input Form - Title Page
-TBRC Volume Number
-1706
-8870
-TBRC Work Number (W)
+TBRC Volume Number 1706
+TBRC Work Number (W ) 8870
 Title
-སོག་བཟློག་པ་བློ་གྲོས་རྒྱལ་མཚན་གྱི་གསུང་འབུམ།
-gsung 'bum/blo gros rgyal mtshan
+ སོག་བཟློག་པ་བློ་གྲོས་རྒྱལ་མཚན་གྱི་གསུང་འབུམ།
+gsung 'bum /blo gros rgyal mtshan
 Author
-བློ་གྲོས་རྒྱལ་མཚན།
+ བློ་གྲོས་རྒྱལ་མཚན།
 blo
-gros rgyal mtshan
-Descriptor
-reproduced from a unique but incomplete dbu-can manuscript
+ gros rgyal mtshan
+Descriptor reproduced from a unique but incomplete dbu-can manuscript
 from the library of the ven. bdud-'joms rin-po-che
 Original Publication
-Place
-new delhi
-Publisher
-sanje dorje
-Date
-1975
-2
-1
-Total Volumes
-Current Volume (of Total)
-Number of TBRC Introductory Pages
-Number of Introductory Pages
-Number of Text Pages
-TBRC Scanning Information
-2
-4
-601
-scanned at the tibetan buddhist resource center, 150 17th st., new
+Place new delhi
+Publisher sanje dorje
+Date 1975
+Total Volumes 2
+Current Volume (of Total) 1
+Number of TBRC Introductory Pages 2
+Number of Introductory Pages 4
+Number of Text Pages 601
+TBRC Scanning Information scanned at the tibetan buddhist resource center, 150 17th st., new
 york city, ny 10011, usa 2004
 
-
-
-Full Record (Library of Congress Online Catalog)
-Page 1 of 2
-The Library of Congress
->> Go to Library of Congress Authorities
+Full Record (Library of Congress Online Catalog) Page 1 of 2
+The Library of Congress >> Go to Library of Congress Authorities
 LIBRARY OF CONGRESS ONLINE CATALOG
-Help
-New
-Search
-Search Headings
-History List
-Titles
-List
-Request Account
-an Item
-Status
-Other
-Databases
-Start
-Over
-DATABASE: Library of Congress Online Catalog
-YOU SEARCHED: Author/Creator Browse =sog bzlog pa
+New Search Headings Titles Request Account Other Start
+Help 
+Search History List List an Item Status Databases Over
+DATABASE : Library of Congress Online Catalog
+YOU SEARCHED: Author/Creator Browse = sog bzlog pa
 SEARCH RESULTS: Displaying 1 of 10.
 Previous Next
-Brief Record Subjects/Content Full Record
-MARC Tags
+Brief Record Subjects /Content Full Record MARC Tags
 Collected writings of Sog-bzlog-pa Blo-gros-rgyal-mtshan.
 LC Control Number: 75900763
-Type of Material: Text (Book, Microform, Electronic, etc.)
+Type of Material: Text (Book, Microform , Electronic, etc.)
 Personal Name: Sog-bzlog-pa Blo-gros-rgyal-mtshan, b. 1552.
 Main Title: Collected writings of Sog-bzlog-pa Blo-gros-rgyal-mtshan.
 Uniform Title: [Works. 1975]
-Published/Created: New Delhi : Sanje Dorji, 1975.
-Description: 2 v. ; 28 x 38 cm.
-Notes: In Tibetan; pref. in English.
+Published/Created: New Delhi : Sanje Dorji, 1975 .
+Description: 2 v. ; 28 x 38 cm .
+Notes: In Tibetan ; pref. in English .
 "Reproduced from a unique but incomplete manuscript from the library of the
-library of the Ven. Bdud- 'joms Rin-po-che."
+library of the Ven. Bdud- 'joms Rin -po-che."
 Vol. 1 contains autobiographical material.
-Subjects: Sog-bzlog-pa Blo-gros-rgyal-mtshan, b. 1552.
-Rñin-ma-pa (Sect)
-Rñin-ma-pa lamas --China--Tibet--Biography.
+Subjects: Sog-bzlog-pa Blo -gros-rgyal-mtshan, b. 1552.
+Rñin -ma-pa (Sect)
+Rñin-ma-pa lamas --China-- Tibet--Biography.
 Tibetan language--Texts.
 LC Classification: BQ7662 .S63 1975
 Overseas Acq. No.: PL480:I-Tib-1390
 Other System No.: (OCOLC)9697409
 Geog. Area Code: a-cc-ti
-CALL NUMBER: BQ7662 .S63 1975 Tib
+CALL NUMBER : BQ7662 .S63 1975 Tib
 Copy 1
 Request in: Asian Reading Room (Jefferson, LJ150)
 - Status: Not Charged
 DATABASE NAME: Library of Congress Online Catalog
 Previous Next →
-http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?v3=1&ti=1,1&SEQ=20041229161008&Sea... 12/29/2004
+http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?v3= 1 & ti= 1,1& SEQ = 20041229161008 & Sea... 12/29/2004
 
-
-
-COLLECTED WRITINGS OF SOG-BZLOG-PA
-BLO-GROS-RGYAL-MTSHAN
+COLLECTED WRITINGS OF SOG -BZLOG -PA
+BLO -GROS-RGYAL-MTSHAN
 Reproduced from a unique but incomplete dbu-can manuscript from the
 library of the Ven. Bdud-joms Rin-po-che
 by
@@ -103,16 +73,12 @@ VOLUME I
 New Delhi
 1975
 
-
-
-སོག་བཟློགཔ་བློ་གྲོས་རྒྱལ་མཚན་དཔལ་བཟང་པོཏྟཾ
+སོག་བཟློག པ་བློ་གྲོས་རྒྱལ་མཚན་དཔལ་བཟང་པོཏྟཾ
 གསུང་འབུམ་བཞུགསསོ།
-
-
 
 INTRODUCTION
 Sog-bzlog-pa Blo-gros-rgyal-mtshan (b. 1552) was born into the famed
-Ldong lineage at Gdong-mkhar in Gtsang. From his earliest childhood he mani-
+Ldong lineage at Gdong-mkhar in Gtsang. From his earliest childhood he mani
 fested an inclination towards the Dharma and scholastic learning. He was especially
 renowned as a physician and served in this capacity to the Phag-mo-gru princes.
 Because of this, he is often called Gong-dkar 'Tsho-byed. He studied with
@@ -131,53 +97,39 @@ Bdud-'joms Rin-po-che is, unfortunately, incomplete. According to the tho byang
 found in the present volume, the present portion is missing the following texts:
 1) Ka. Slob dpon chen po Sangs rgyas gnyis pa'i rnam thar yid kyi mun sel.
 2) Ca. Sangs rgyas kyi dus chen bzhi'i ngos 'dzin.
-The first of these texts is under publication from another separate manu-
+The first of these texts is under publication from another separate manu
 script. This is a splendid biography of the Guru Padmasambhava. The second
 work, alas, has not been reported to exist anywhere in India or Nepal.
 
-
-
 CONTENTS
-1-7
-1. GSUNG 'BUM GYI THO BYANG.
-List of the writings of Sog-bzlog-pa Blo-gros-rgyal-mtshan.
-performance of Lamaist practices whereby the Mongols were
+1. GSUNG 'BUM GYI THO BYANG . 1-7
+ performance of Lamaist practices whereby the Mongols were
 turned back.
-9-109
-261-601
-2. KHA. RDZOGS CHEN PA SPRUL SKU ZHIG PO GLING
-PA GAR GYI DBANG PAYUG RTSAL GYI SKYES RABS
-RAGS BSDUS DANG RNAM THAR.
-5. CHA. GSANG SNGAGS SNGA 'GYUR LA BOD DU RTSOD
-PA SNGA PHYIR BYUNG BA RNAMS KYI LAN DU
-BRJOD PA NGES PA DON GYI 'BRUG SGRA.
-Tho byang: Sprul sku Zhig po gling pa'i rnam thar.
-Biography, with an account of previous embodiments, of Snang-
-rtse Gter-ston Zhig-po-gling-pa (1524-1583); written in 1599.
-111-201
-3. GA, DPAL RDO RJE PHUR PA'I LO RGYUS CHOS KYI
-'BYUNG GNAS NGO MTSHAR RGYA MTSHO'I RBA
-RLABS.
-Tho byang: Rdo rje phur pa'i chos 'byung ngo mtshar rgya
-mtsho'i rba rlabs.
-History of the Vajrakila practices; written in 1609.
-Tho byang: Sngags Rnying ma'i rtsod spong 'Bri khung Dpal
+List of the writings of Sog-bzlog-pa Blo-gros-rgyal-mtshan.
+2. KHA. RDZOGS CHEN PA SPRUL SKU ZHIG PO GLING 9-109 5. CHA. GSANG SNGAGS SNGA 'GYUR LA BOD DU RTSOD 261-601
+PA GAR GYI DBANG PAYUG RTSAL GYI SKYES RABS PA SNGA PHYIR BYUNG BA RNAMS KYI LAN DU
+RAGS BSDUS DANG RNAM THAR. BRJOD PA NGES PA DON GYI 'BRUG SGRA.
+Tho byang: Sprul sku Zhig po gling pa'i rnam thar. Tho byang: Sngags Rnying ma'i rtsod spong 'Bri khung Dpal
 'dzin gyi brtsod lan/ Lha Bla ma Ye shes 'od kyi bka' shog gi
+Biography, with an account of previous embodiments, of Snang
 lan du gsol ba le tshan gnyis/ Pho brang Zhi ba 'od kyi bka shog
+rtse Gter-ston Zhig-po-gling-pa (1524-1583); written in 1599.
 lan/ Lo tsā ba chen po Mgos Lhas btsas kyi bka' shog gi lan/
-Bcom ldan Rig ral la lan du gsol ba'i yi ge/ Bdag nyid chen
-po Sa skya Paņời ta dang Pan chen Thams cad mkhyen pa Bu
-ston chen po'i bzhed pa ji bzhin par bkral ba'i yi gel
+3. GA, DPAL RDO RJE PHUR PA'I LO RGYUS CHOS KYI 111-201 Bcom ldan Rig ral la lan du gsol ba'i yi ge/ Bdag nyid chen
+'BYUNG GNAS NGO MTSHAR RGYA MTSHO'I RBA po Sa skya Paņời ta dang Pan chen Thams cad mkhyen pa Bu
+RLABS. ston chen po'i bzhed pa ji bzhin par bkral ba'i yi gel
 Bya pa Chos rje Bskal bzang pas Paņ chen Mkhas pa'i dbang po
+Tho byang: Rdo rje phur pa'i chos 'byung ngo mtshar rgya
 Shākya mchog Idan la dri ba'i lan du gnang ba sngags rnying
+mtsho'i rba rlabs.
 ma'i rgyab brten bzang por gyur pa'i bskor nas btus pa/ Rang
+History of the Vajrakila practices; written in 1609.
 gi blo gzu bor bzhag pa'i yi ge Rgyang rong Byang chub 'bum
 gyi gsung rgyan thor bu'i rgyab skyor dang bcas pa 'di rnams
+4. NGA. SOG BZLOG BGYIS TSHUL GYI LO RGYUS. 203-259
 dpe tshan phyogs gcig tu byas pa.
-203-259
-4. NGA. SOG BZLOG BGYIS TSHUL GYI LO RGYUS.
 Tho byang: Slan chad kyang sog bzlog mdzad pa po rnams la
 phan pa'i phyir du Rang nyid kyi sog bzlog bgyis tshul.
-Autobiographical account of Sog-bzlog-pa focussing upon his
 Replies to various Gsar-ma-pa polemics against the teaching and
-practice of the Rnying-ma-pa tradition.
+Autobiographical account of Sog-bzlog-pa focussing upon his practice of the Rnying-ma-pa tradition.
+
